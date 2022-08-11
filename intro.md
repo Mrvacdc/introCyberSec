@@ -1,0 +1,59 @@
+# Introduction to Cyber Security
+
+## Introduction
+
+We refer to cyber security as inter-relationship between defensive processes, technologies, and practices that protect internet connected machines.
+
+Machine learning and data mining will play a significant role in the future of cyber security.
+
+Many methodologies exist today. All of them, try to answer the same fundamental set of questions:
+
+* What is being protected?
+* Are there any known threats and vulnerabilities?
+* What are the impacts to the organization if the data is lost or leaked?
+* What is the value of the data to the organization?
+* What can be done to mitigate the risks?
+
+Some basic terminology:
+
+* Assets: what is being protected, something that has some value to its owner. Its value can be tangible or intangible.
+* Threat: is an intention to cause damage. A hostile act aimed by an attacker at an asset. Regardless of the attacker's intent to do no harm, a threat is still a threat. The attacker posing a threat is commonly called a thread actor.
+* Vulnerability: a defect in the target system. It could be a bug in the application code, a flaw in the design, improper configuration or user action.
+* Exploit: a way to take advantage of a known vulnerability. The usual objective is to take control over the asset. For example, social engineering, commonly considered a simple scan, is one kind of exploit.
+
+The question is what amount of risk is acceptable given the cost of mitigating the threats. The risk can be minimized but no removed completely!
+
+
+### What are the costs when dealing with cyber security attacks?
+
+With the increasing number of devices that are capable of connecting to the internet, and that they do not seem to decelarate, if not the contrary, cyber security must be a relevant player in the picture.
+
+When a cyber security attack occurs, the costs could vary from not perceptible or harmless to cause an incredible damage, not just in terms of money but also having a direct impact in humans life. A company like a social media that has been victim of hacker, depending on the attack, could potencially suffer an operational disruption of its services, and therefore of the revenue it gets from advertisements when it does work properly. Additionally, this event could be perceive by the customers as if the company does not take its clients data with the appropriate level of responsability and security it should, and they very well may decide to migrate to another competitor, which most certainly will translate in market losses.
+
+There are also public areas where cyber attacks could potencially be more dangerous. Water treatment plants, nuclear plants, electricity distribution system are just a small example of the most critical surface attack that treath actors could take advantage, and having a direct impact in the daily life and safety of the citizens.
+
+
+### Why is this important and who can fix it?
+
+Nowadays cyber security is a fundamental aspect of this globally connected world, and the different actors that participate in it. Common people, small busineses, big corporations, goveerments, and more, make use of the tools that new technologies have to offer.
+
+But the benefits we get from these should not deprive us the responsabilities when it comes to cyber security. These responsabilities will vary depending on the role we have. A developer who is creating a new application should be aware of the security measures that must be implemented in the code to minimize the surface attack. As consumer of these products we should be conscious of what information we are giving away when using them. Despite all security considerations that the developer could take into account, these are not a 100 percent guarantee, specially when most the attacks come from social enginnering and phising. That's why a culture of cyber security awareness is, and will be key to keep us safe in the cyber sphere.
+
+### Why wouldn't a company disclose that it has been breached?
+
+Many companies wouldn't disclose that it has been breached because of several reasons. One of them, the economical impact that it could come from the public image of being part of a breach, and this is even worse if you are technology company since it is a fundamental aspect of your business.
+
+Another reason for avoiding the disclosure, are the economic sanctions that could come from it, as a consequence of not taking the security measures it should have.
+
+Furthermore, most of the time companies do not immediately know what will the impact be, or how it came to be, so they must first understand how it happend in order to take actions. 
+
+### Dealing with the human factor
+
+
+### Botnets
+
+
+### Deep packet inspection
+
+
+
